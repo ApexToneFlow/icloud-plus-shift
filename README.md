@@ -36,4 +36,4 @@ Industry-leading **iCloud Plus Shift** storage workspace with team folders, audi
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
